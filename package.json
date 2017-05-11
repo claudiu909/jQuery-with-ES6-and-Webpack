@@ -10,7 +10,6 @@
     "webpack": "webpack",
     "server": "node_modules/.bin/webpack-dev-server"
   },
-  "private": true,
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "jquery": "^3.2.1"
